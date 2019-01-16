@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: service-sisi
+    name: service-qgh
 
 eureka:
   client:
