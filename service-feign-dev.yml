@@ -6,7 +6,7 @@ server:
   port: 8084
 spring:
   application:
-    name: service-feign1111111
+    name: service-feign
 
 ---
 spring:
